@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "y/G44Vheb7/Q5G9/OKC+HL1nzwyt8aiJ4IvmHR5t2eV56H51mE8OzB6wxLU36mN6u2TRIPBO23iWrRMZ5tbrUg==",
+  "dgSpecHash": "zwR/NUUk+klJBw9myyKkN/JZEvYfiJkakZ16PvsP1SjajdrGaxvsdycbJZjgXzmf6vzV/agMaJe6GN2xb+AdXA==",
   "success": true,
-  "projectFilePath": "E:\\CODE\\QuanLyCongViec\\implementation\\clients\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\CODE\\QuanLyCongViec\\implementation\\clients\\ConsoleApp1\\publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\mqttnet\\4.3.1.873\\mqttnet.4.3.1.873.nupkg.sha512"
+  ],
   "logs": []
 }

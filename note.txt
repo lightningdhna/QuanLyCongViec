@@ -1,0 +1,20 @@
+jira
+trello
+monday
+asana
+basecamp
+todoist
+wrike
+clickup
+odoo
+
+Hệ thống con:
+Hệ thống quản lí công việc
+Hệ thống quản lí dự án
+Hệ thống quản lí trao đổi / liên lạc
+Hệ thống kết xuất dữ liệu
+Hệ thống quản lí nhân sự / tài khoản ..
+Hệ thống quản lí files ( => )
+--Hệ thống code runner
+Hệ thống lưu trữ dữ liệu 
+Hệ thống quản trị 

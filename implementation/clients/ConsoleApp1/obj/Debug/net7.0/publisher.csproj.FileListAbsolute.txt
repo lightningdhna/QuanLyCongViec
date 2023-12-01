@@ -1,0 +1,17 @@
+E:\CODE\QuanLyCongViec\implementation\clients\ConsoleApp1\bin\Debug\net7.0\publisher.exe
+E:\CODE\QuanLyCongViec\implementation\clients\ConsoleApp1\bin\Debug\net7.0\publisher.deps.json
+E:\CODE\QuanLyCongViec\implementation\clients\ConsoleApp1\bin\Debug\net7.0\publisher.runtimeconfig.json
+E:\CODE\QuanLyCongViec\implementation\clients\ConsoleApp1\bin\Debug\net7.0\publisher.dll
+E:\CODE\QuanLyCongViec\implementation\clients\ConsoleApp1\bin\Debug\net7.0\publisher.pdb
+E:\CODE\QuanLyCongViec\implementation\clients\ConsoleApp1\bin\Debug\net7.0\MQTTnet.dll
+E:\CODE\QuanLyCongViec\implementation\clients\ConsoleApp1\obj\Debug\net7.0\publisher.csproj.AssemblyReference.cache
+E:\CODE\QuanLyCongViec\implementation\clients\ConsoleApp1\obj\Debug\net7.0\publisher.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\QuanLyCongViec\implementation\clients\ConsoleApp1\obj\Debug\net7.0\publisher.AssemblyInfoInputs.cache
+E:\CODE\QuanLyCongViec\implementation\clients\ConsoleApp1\obj\Debug\net7.0\publisher.AssemblyInfo.cs
+E:\CODE\QuanLyCongViec\implementation\clients\ConsoleApp1\obj\Debug\net7.0\publisher.csproj.CoreCompileInputs.cache
+E:\CODE\QuanLyCongViec\implementation\clients\ConsoleApp1\obj\Debug\net7.0\publisher.csproj.CopyComplete
+E:\CODE\QuanLyCongViec\implementation\clients\ConsoleApp1\obj\Debug\net7.0\publisher.dll
+E:\CODE\QuanLyCongViec\implementation\clients\ConsoleApp1\obj\Debug\net7.0\refint\publisher.dll
+E:\CODE\QuanLyCongViec\implementation\clients\ConsoleApp1\obj\Debug\net7.0\publisher.pdb
+E:\CODE\QuanLyCongViec\implementation\clients\ConsoleApp1\obj\Debug\net7.0\publisher.genruntimeconfig.cache
+E:\CODE\QuanLyCongViec\implementation\clients\ConsoleApp1\obj\Debug\net7.0\ref\publisher.dll
