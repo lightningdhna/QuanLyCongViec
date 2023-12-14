@@ -1,3 +1,68 @@
 {
-    "editor.inlineSuggest.showToolbar": "onHover"
+    "editor.inlineSuggest.showToolbar": "onHover",
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "name": "italic font",
+                "scope": [
+                    "comment",
+                    "keyword",
+                    "storage",
+                    "keyword.control",
+                    "keyword.control.from",
+                    "keyword.control.flow",
+                    "keyword.operator.new",
+                    "keyword.control.import",
+                    "keyword.control.export",
+                    "keyword.control.default",
+                    "keyword.control.trycatch",
+                    "keyword.control.conditional",
+                    "storage.type",
+                    "storage.type.class",
+                    "storage.modifier.tsx",
+                    "storage.type.function",
+                    "storage.modifier.async",
+                    "variable.language",
+                    "variable.language.this",
+                    "variable.language.super",
+                    "meta.class",
+                    "meta.var.expr",
+                    "constant.language.null",
+                    "support.type.primitive",
+                    "entity.name.method.js",
+                    "entity.other.attribute-name",
+                    "punctuation.definition.comment",
+                    "text.html.basic entity.other.attribute-name",
+                    "tag.decorator.js entity.name.tag.js",
+                    "tag.decorator.js punctuation.definition.tag.js",
+                    "source.js constant.other.object.key.js string.unquoted.label.js",
+                ],
+                "settings": {
+                    "fontStyle": "italic",
+                }
+            },
+        ]
+    },
+    "workbench.colorCustomizations": {
+        "terminal.background": "#282C34",
+        "terminal.foreground": "#ABB2BF",
+        "terminalCursor.background": "#ABB2BF",
+        "terminalCursor.foreground": "#ABB2BF",
+        "terminal.ansiBlack": "#282C34",
+        "terminal.ansiBlue": "#61AFEF",
+        "terminal.ansiBrightBlack": "#545862",
+        "terminal.ansiBrightBlue": "#61AFEF",
+        "terminal.ansiBrightCyan": "#56B6C2",
+        "terminal.ansiBrightGreen": "#98C379",
+        "terminal.ansiBrightMagenta": "#C678DD",
+        "terminal.ansiBrightRed": "#E06C75",
+        "terminal.ansiBrightWhite": "#C8CCD4",
+        "terminal.ansiBrightYellow": "#E5C07B",
+        "terminal.ansiCyan": "#56B6C2",
+        "terminal.ansiGreen": "#98C379",
+        "terminal.ansiMagenta": "#C678DD",
+        "terminal.ansiRed": "#E06C75",
+        "terminal.ansiWhite": "#ABB2BF",
+        "terminal.ansiYellow": "#E5C07B"
+    }
 }
